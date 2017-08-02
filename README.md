@@ -1,0 +1,1 @@
+A rough templately thing for scraping content from webpages using python and beautifulsoup4. Mainly for personal use I suppose.
